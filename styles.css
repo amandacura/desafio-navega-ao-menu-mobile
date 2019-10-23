@@ -1,0 +1,11 @@
+.img-menu-open{
+	width: 10%;
+}
+
+.img-menu-close{
+	width: 10%;
+	display: none;
+}
+nav {
+	display: none;
+}
